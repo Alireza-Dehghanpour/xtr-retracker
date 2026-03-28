@@ -93,7 +93,6 @@ The full code will be released after publication.
 git clone https://github.com/Alireza-Dehghanpour/xtr-retracker.git
 cd xtr-retracker
 
-```md
 pip install -r requirements.txt
 ```
 
@@ -126,7 +125,6 @@ xtr-retracker/
 ├── environment.yml
 └── .gitignore
 ```
-
 ---
 
 
