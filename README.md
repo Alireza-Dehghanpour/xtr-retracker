@@ -10,7 +10,7 @@
 
 ---
 
-![XTR Architecture](./figures/xtr_architecture.png)
+![XTR Architecture](./figures/final_XTR.png)
 
 ---
 
