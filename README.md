@@ -48,7 +48,7 @@ Unlike CNN-based retrackers (e.g., AWI-ICENet1), XTR introduces:
 
 ## 📊 Example Explainability
 
-![XAI Example](./figures/xai_example.png)
+![XAI Example](./figures/fig_XAI.png)
 
 - (a) Input waveform + reference
 - (b) SmoothGrad saliency
