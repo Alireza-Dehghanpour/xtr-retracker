@@ -123,7 +123,7 @@ xtr-retracker/
 ├── README.md
 ├── requirements.txt
 ├── environment.yml
-└── .gitignore
+
 ```
 ---
 
